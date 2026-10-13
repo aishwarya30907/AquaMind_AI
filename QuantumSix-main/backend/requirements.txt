@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+sqlalchemy
+python-jose[cryptography]
+bcrypt
+joblib
+numpy
+pillow
+torch
+torchvision
+scikit-learn
+pytest
+httpx

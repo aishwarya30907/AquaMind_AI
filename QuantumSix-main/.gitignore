@@ -1,0 +1,12 @@
+# Ignore archives
+*.zip
+
+# Ignore local config
+.config/
+
+# Ignore sample datasets
+sample_data/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
